@@ -40,7 +40,7 @@ GIF created with Peek
 
 I tried to implement the confetti but it just wasn't working.
 I also tried to change the position of the toast but that was also not working.
-Everything else went smoothl enough.
+Everything else went smoothly enough.
 
 ## License
 
