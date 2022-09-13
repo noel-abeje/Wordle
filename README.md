@@ -26,7 +26,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Added instructions at the beginning of game!
+* [x] Made guesses appear chronologically as the user guesses
 
 ## Video Walkthrough
 
